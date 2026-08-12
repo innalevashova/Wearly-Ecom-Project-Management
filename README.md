@@ -4,7 +4,7 @@ Project management artifacts, product requirements, and MVP scope definition for
 
 A modern, high-performance online store for clothing and accessories, built with a robust backend and an intuitive user interface. 
 
-Live Demo: [[great-wearly-shop.vercel.app](https://great-wearly-shop.vercel.app/)
+Live Demo: [great-wearly-shop.vercel.app](https://great-wearly-shop.vercel.app/)
 
 ---
 
