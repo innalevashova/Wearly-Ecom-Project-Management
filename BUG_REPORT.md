@@ -1,7 +1,7 @@
 # Bug Report: User Authentication Blocked During Sign-In
 
 * **Component:** Authentication / Sign-In Flow
-* **Environment:** Production ([great-wearly-shop.vercel.app](https://vercel.app))
+* **Environment:** Production (great-wearly-shop.vercel.app)
 * **Severity:** Medium (Blocks verified/unverified user entry)
 * **Reporter:** Inna Levashova, Project Manager
 
