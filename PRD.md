@@ -1,4 +1,4 @@
-# Project Requirements Document (PRD) — Wearly MVP
+# Product Requirements Document (PRD) — Wearly MVP
 
 * **Project Name:** Wearly (E-Commerce Platform)
 * **Author:** Inna Levashova, Project Manager
